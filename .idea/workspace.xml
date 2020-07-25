@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb4781f3-a123-4f91-99a9-a2bceb76f93c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/api" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/precache-manifest.4a12e2b05b288264bc0ce479bcbeaa9d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.a6de119e.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.a6de119e.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.f8f9db93.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.f8f9db93.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.f8f9db93.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.7bec3133.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.7bec3133.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime-main.cea588d5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime-main.cea588d5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AddFolder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AddNote.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Container.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ErrorBoundary.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/FolderForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/FolderList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NoteForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/NoteList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Sidebar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ValidationError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/context.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/noteData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/AddFolderView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/AddNoteView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/FolderView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/MainView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/views/NoteView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/todo.todo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/noteful-json-server" beforeDir="false" />
-    </list>
+    <list default="true" id="bb4781f3-a123-4f91-99a9-a2bceb76f93c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +9,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1030" />
   </component>
   <component name="ProjectId" id="1fBp7kW1smFXumLFWS8XlclUOB4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,7 +37,7 @@
       <workItem from="1588225453649" duration="1344000" />
       <workItem from="1593318571204" duration="4227000" />
       <workItem from="1593729954007" duration="546000" />
-      <workItem from="1595701176627" duration="144000" />
+      <workItem from="1595701176627" duration="352000" />
     </task>
     <servers />
   </component>
