@@ -25,6 +25,8 @@ notesRouter
           error: { message: `Missing '${key}' in request body` }
         });
 
+    newNote.time_modified = Date.now()
+
     NotesService.insertNote(
       req.app.get('db'),
       newNote
@@ -80,6 +82,8 @@ notesRouter
           message: `Request body must contain folder_id, name, content`
         }
       });
+
+    noteToUpdate.modified = Date.now()
 
     NotesService.updateNote(
       req.app.get('db'),
